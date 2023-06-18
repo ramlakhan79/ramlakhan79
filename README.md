@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramlakhan79&label=Profile%20views&color=0e75b6&style=flat" alt="ramlakhan79" /> </p>
 
-- 👨‍💻 All of my projects are available at [ramlakhan.netlify.app](ramlakhan.netlify.app)
+- 👨‍💻 All of my projects are available at [Project]
 
 - 📫 How to reach me **ramlakhanlodhi229@gmail.com**
 
