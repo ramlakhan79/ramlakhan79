@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramlakhan79&label=Profile%20views&color=0e75b6&style=flat" alt="ramlakhan79" /> </p>
 
-- 👨‍💻 All of my projects are available at <a href="ramlakhan.netlify.app">Click me!</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ramlakhan79/Project">Click me!</a>
 
 - 📫 How to reach me **ramlakhanlodhi229@gmail.com**
 
